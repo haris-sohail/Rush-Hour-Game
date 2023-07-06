@@ -15,4 +15,4 @@ bash install-libraries.sh <br>
 d) Compile the project by writing the command below: <br>
 make <br>
 e) Run the main file using command below: <br>
-./game
+./main
