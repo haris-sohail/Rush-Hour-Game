@@ -1,6 +1,10 @@
 # Rush-Hour-Game
 A car game made using openGL libraries in ubuntu
 
+## DEMO 
+
+Go to the drive link for the video demo: https://drive.google.com/drive/folders/1Lvd8aYGAbHDNhlUy59LdL3v_XRmnUjHZ?usp=sharing
+
 ## Salient Features
 👉 The car can move all over the board except for the walls indicated using black boxes. <br>
 👉 The car can pickup passengers using the space button if they are within 0 blocks of the passengers <br>
