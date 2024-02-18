@@ -3,6 +3,8 @@ A car game made using openGL libraries in ubuntu
 
 ## DEMO 
 
+![alt text](https://github.com/haris-sohail/Rush-Hour-Game/blob/main/gameplay.png)
+
 Go to the drive link for the video demo: https://drive.google.com/drive/folders/1Lvd8aYGAbHDNhlUy59LdL3v_XRmnUjHZ?usp=sharing
 
 ## Salient Features
